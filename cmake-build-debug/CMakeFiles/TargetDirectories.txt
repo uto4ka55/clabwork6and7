@@ -1,0 +1,3 @@
+C:/Users/Artem/CLionProjects/clabwork6,7/cmake-build-debug/CMakeFiles/clabwork6_7.dir
+C:/Users/Artem/CLionProjects/clabwork6,7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Artem/CLionProjects/clabwork6,7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
